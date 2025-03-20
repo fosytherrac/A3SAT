@@ -1,11 +1,11 @@
 ![A3SAT_Logo](https://github.com/user-attachments/assets/c12b4ff3-41c3-4370-80ce-dfe9c6f3abd4)
 
-# A3SAT - Arma 3 Server Administration Tools (Alpha)
-- Status: Active Development (Alpha)
+# A3SAT - Arma 3 Server Administration Tools 🔧 (Alpha) 
+- Status: 🟢 Active Development
 
 These tools are designed to streamline and enhance the management of your Windows Arma 3 Server, offering a range of features to simplify administrative tasks.
 
-## Features
+## Features 📋
 
 - **Automated Mod Download and Update**: Simplify mod management by automatically downloading and updating required mods, ensuring both the server and connected clients have the necessary content.
 
@@ -21,18 +21,18 @@ These tools are designed to streamline and enhance the management of your Window
 
 Collectively, these features provide a robust and user-friendly environment for efficient Arma 3 server administration.
 
-## Planned Extensions
+## Planned Extensions 🚧 
 
 - **Telegram & Slack Bot**
 - **Automatic Mod Sorting**
 
-## Dependencies
+## Dependencies 🔗
 
 - **PowerShell**: Employed to Automate the Arma 3 Server setup.​
 - **[NSSM](https://nssm.cc/download) (Non-Sucking Service Manager)**: A tool that allows you to run the Arma 3 server as a Windows service, ensuring it starts automatically and remains running, thereby enhancing server reliability.
 - **[SteamCMD](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip)**: The command-line version of Steam, used to install and update the Arma 3 server files, as well as manage Steam Workshop mods. 
 - **[Python 3.x](https://www.python.org/downloads)** (Optional): Utilized for the Discord Bot.​
 
-## Installation
+## Installation ⚙️
 
 - **
