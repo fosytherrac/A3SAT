@@ -1,6 +1,6 @@
 ![A3SAT_Logo](https://github.com/user-attachments/assets/c12b4ff3-41c3-4370-80ce-dfe9c6f3abd4)
 
-# A3SAT - Arma 3 Server Administration Tools 🔧 (Alpha) 
+# A3SAT - Arma 3 Server Administration Tools ⚙️ (Alpha) 
 - Status: 🟢 Active Development
 
 These tools are designed to streamline and enhance the management of your Windows Arma 3 Server, offering a range of features to simplify administrative tasks.
@@ -33,6 +33,6 @@ Collectively, these features provide a robust and user-friendly environment for 
 - **[SteamCMD](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip)**: The command-line version of Steam, used to install and update the Arma 3 server files, as well as manage Steam Workshop mods. 
 - **[Python 3.x](https://www.python.org/downloads)** (Optional): Utilized for the Discord Bot.​
 
-## Installation ⚙️
+## Installation 🪛
 
 - **
