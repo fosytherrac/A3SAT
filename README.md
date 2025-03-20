@@ -2,7 +2,7 @@
 
 # A3SAT - Arma 3 Server Administration Tools
 
-These tools are designed to streamline and enhance the management of your Arma 3 server, offering a range of features to simplify administrative tasks.
+These tools are designed to streamline and enhance the management of your Windows Arma 3 Server, offering a range of features to simplify administrative tasks.
 
 ## Features
 
