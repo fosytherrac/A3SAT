@@ -1,6 +1,7 @@
 ![A3SAT_Logo](https://github.com/user-attachments/assets/c12b4ff3-41c3-4370-80ce-dfe9c6f3abd4)
 
-# A3SAT - Arma 3 Server Administration Tools
+# A3SAT - Arma 3 Server Administration Tools (Alpha)
+- Status: Active Development (Alpha)
 
 These tools are designed to streamline and enhance the management of your Windows Arma 3 Server, offering a range of features to simplify administrative tasks.
 
@@ -16,9 +17,14 @@ These tools are designed to streamline and enhance the management of your Window
 
 - **Headless-Client Setup**(HT): Sets up Headless-Client(s) for your server if you choose to do so.
 
-- **Discord Bot Integration**: Manage your server remotely by starting, stopping, or restarting it directly through Discord commands (Telegram & Slack are planned).
+- **Discord Bot Integration**: Manage your server remotely by starting, stopping, or restarting it directly through Discord commands
 
 Collectively, these features provide a robust and user-friendly environment for efficient Arma 3 server administration.
+
+## Planned Extensions
+
+- **Telegram & Slack Bot**
+- **Automatic Mod Sorting**: Automatically setup mods for clientside, serverside or both.
 
 ## Dependencies
 
