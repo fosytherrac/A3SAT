@@ -24,7 +24,7 @@ Collectively, these features provide a robust and user-friendly environment for 
 ## Planned Extensions
 
 - **Telegram & Slack Bot**
-- **Automatic Mod Sorting**: Automatically setup mods for clientside, serverside or both.
+- **Automatic Mod Sorting**
 
 ## Dependencies
 
