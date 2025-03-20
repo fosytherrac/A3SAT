@@ -20,10 +20,10 @@ Collectively, these features provide a robust and user-friendly environment for 
 
 ## Dependencies
 
-- **PowerShell**: Employed to execute Windows-specific commands and scripts, facilitating tasks like managing Windows services and automating server processes.​
+- **PowerShell**: Employed to Automate the Arma 3 Server setup.​
 - **NSSM (Non-Sucking Service Manager)**: A tool that allows you to run the Arma 3 server as a Windows service, ensuring it starts automatically and remains running, thereby enhancing server reliability.
 - **SteamCMD**: The command-line version of Steam, used to install and update the Arma 3 server files, as well as manage Steam Workshop mods.
-- **Python 3.x** (Optional): Utilized for scripting and automating various server management tasks, such as parsing .html mod lists and handling file operations.​
+- **Python 3.x** (Optional): Utilized for the Discord Bot.​
 
 ## Installation
 
