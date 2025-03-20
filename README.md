@@ -18,6 +18,8 @@ These tools are designed to streamline and enhance the management of your Window
 
 Collectively, these features provide a robust and user-friendly environment for efficient Arma 3 server administration.
 
+- **Headless-Client Setup**(HT): Sets up Headless-Client(s) for your server if you choose to do so.
+
 ## Dependencies
 
 - **PowerShell**: Employed to Automate the Arma 3 Server setup.​
