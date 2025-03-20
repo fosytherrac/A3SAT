@@ -1,3 +1,5 @@
+![A3SAT_Logo](https://github.com/user-attachments/assets/c12b4ff3-41c3-4370-80ce-dfe9c6f3abd4)
+
 # A3SAT - Arma 3 Server Administration Tools
 
 These tools are designed to streamline and enhance the management of your Arma 3 server, offering a range of features to simplify administrative tasks.
