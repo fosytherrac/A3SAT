@@ -21,7 +21,7 @@ These tools are designed to streamline and enhance the management of your Window
 
 Collectively, these features provide a robust and user-friendly environment for efficient Arma 3 server administration.
 
-## Planned Extensions 🚧 
+## Planned Features 🚧 
 
 - **Telegram & Slack Bot**
 - **Automatic Mod Sorting**
