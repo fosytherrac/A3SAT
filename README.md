@@ -1,6 +1,4 @@
-<p align="center">
-    ![A3SAT_Logo](https://github.com/user-attachments/assets/16a8b678-9d9b-48ba-ab5a-9edc6fa69599)
-</p>
+![A3SAT_Logo](https://github.com/user-attachments/assets/16a8b678-9d9b-48ba-ab5a-9edc6fa69599)
 
 # A3SAT - Arma 3 Server Administration Tools (Alpha)
 **Status**: Active Development 🟢
