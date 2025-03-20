@@ -33,6 +33,8 @@ Collectively, these features provide a robust and user-friendly environment for 
 - **[SteamCMD](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip)**: The command-line version of Steam, used to install and update the Arma 3 server files, as well as manage Steam Workshop mods. 
 - **[Python 3.x](https://www.python.org/downloads)** (Optional): Utilized for the Discord Bot.​
 
+## Quick Start Guide ⚡
+
 ## Installation 🪛
 
 - **
