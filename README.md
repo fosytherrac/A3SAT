@@ -18,3 +18,11 @@ These tools are designed to streamline and enhance the management of your Window
 
 Collectively, these features provide a robust and user-friendly environment for efficient Arma 3 server administration.
 
+##Dependencies
+
+- Python 3.x
+- Powershell
+- NSSM
+
+##Installation
+
