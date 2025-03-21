@@ -2,7 +2,6 @@
 
 This Discord bot provides convenient slash commands (`/start`, `/stop`, `/restart`) to control the "Arma3Server" service on Windows servers. It is built with Python using the `discord.py` library.
 
----
 
 ## Features
 
@@ -10,8 +9,6 @@ This Discord bot provides convenient slash commands (`/start`, `/stop`, `/restar
 - **Service Management**: Start, stop, and restart the Windows "Arma3Server" service.
 - **Authorization**: Commands are restricted to specified Discord user IDs for security.
 - **Service State Check**: Checks the current state before performing operations, avoiding unnecessary errors.
-
----
 
 ## Requirements
 
@@ -21,7 +18,6 @@ This Discord bot provides convenient slash commands (`/start`, `/stop`, `/restar
 - Discord Bot Token
 - Administrative privileges on the host machine to manage Windows services
 
----
 
 ## Installation
 
@@ -31,6 +27,7 @@ This Discord bot provides convenient slash commands (`/start`, `/stop`, `/restar
 git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
 ```
+
 
 ### 2. Install Dependencies
 
@@ -52,8 +49,6 @@ BOT_TOKEN = "your-real-token-here"
 AUTHORIZED_USER_IDS = [123456789012345678]
 ```
 
----
-
 ## Usage
 
 ### Run the Bot
@@ -74,7 +69,6 @@ The bot will log into Discord and sync slash commands automatically.
 
 Only users listed in `AUTHORIZED_USER_IDS` can execute these commands.
 
----
 
 ## Security and Best Practices
 
@@ -90,8 +84,6 @@ Only users listed in `AUTHORIZED_USER_IDS` can execute these commands.
 - Verify the bot is correctly invited to your Discord server.
 - Confirm the bot is run with administrative privileges on your system.
 - Check the console logs for error messages if commands do not respond as expected.
-
----
 
 ## License
 
