@@ -57,7 +57,7 @@ AUTHORIZED_USER_IDS = [123456789012345678]
 Make sure to run the bot with administrative privileges, as it needs them to control services.
 
 ```bash
-python A3DSR.py
+python A3SDB.py
 ```
 
 The bot will log into Discord and sync slash commands automatically.
