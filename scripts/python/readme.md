@@ -49,6 +49,7 @@ BOT_TOKEN = "your-real-token-here"
 AUTHORIZED_USER_IDS = [123456789012345678]
 ```
 
+
 ## Usage
 
 ### Run the Bot
@@ -60,6 +61,7 @@ python A3DSR.py
 ```
 
 The bot will log into Discord and sync slash commands automatically.
+
 
 ### Discord Commands
 
@@ -76,7 +78,6 @@ Only users listed in `AUTHORIZED_USER_IDS` can execute these commands.
 - **Limited Access**: Add only trusted user IDs to the authorized list.
 - **Admin Privileges**: Run the bot on a secure, monitored system, as it requires admin rights.
 
----
 
 ## Troubleshooting
 
@@ -84,6 +85,7 @@ Only users listed in `AUTHORIZED_USER_IDS` can execute these commands.
 - Verify the bot is correctly invited to your Discord server.
 - Confirm the bot is run with administrative privileges on your system.
 - Check the console logs for error messages if commands do not respond as expected.
+
 
 ## License
 
