@@ -1,4 +1,2 @@
 
-# Quick Start Guide ⚡
-
-# Installation 🪛
+# Setup Guide 🪛
