@@ -35,3 +35,5 @@ Collectively, these features provide a robust and user-friendly environment for 
 
 # Setup Guide 🪛
 [Documentation](setup_guide.md)
+
+@fosytherrac
